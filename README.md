@@ -7,7 +7,7 @@
 [Output Object as CSV](https://github.com/sufan/spiderpig#output-object-as-csv)  
 [Resign Current Responder](https://github.com/sufan/spiderpig#resign-current-responder)  
 [SizeToFit with Aspect Ratio](https://github.com/sufan/spiderpig#sizetofit-with-aspect-ratio)  
-[Use HTML Text Formatting in Localized String](https://github.com/sufan/spiderpig#use-html-text-formatting)  
+[Use HTML Text Formatting in Localized String](https://github.com/sufan/spiderpig#use-html-text-formatting-in-localized-string)  
 
 ## Chapter
 ### [Codable String as Value](#codable-string-as-value)
