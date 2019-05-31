@@ -1,4 +1,4 @@
-# Swift Confidence Sheet
+# Swift Tips
 
 ## Table of Contents
 [Codable String as Value](https://github.com/sufan/spiderpig#codable-string-as-value)  
